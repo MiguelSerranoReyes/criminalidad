@@ -1,7 +1,7 @@
 
 # Proyecto de Mapa de Calor de Criminalidad
 
-Este proyecto es una aplicación web creada con Dash y Plotly para visualizar un mapa de calor de criminalidad en la Ciudad de México. Deberás descargar del sitio de datos abiertos de la CdMx el archivo .csv correspondiente que quieras visualizar [Carpetas de investigación FGJ](https://datos.cdmx.gob.mx/dataset/carpetas-de-investigacion-fgj-de-la-ciudad-de-mexico) En este ejemplo usamos los datos correspondientes a Carpetas de Investigación de la FGJ (2023).
+Este proyecto es una aplicación web creada con Dash y Plotly para visualizar un mapa de calor de criminalidad en la Ciudad de México. Deberás descargar del sitio de datos abiertos de la CdMx el archivo .csv correspondiente que quieras visualizar [Carpetas de investigación FGJ](https://datos.cdmx.gob.mx/dataset/carpetas-de-investigacion-fgj-de-la-ciudad-de-mexico). En este ejemplo usamos los datos correspondientes a Carpetas de Investigación de la FGJ (2023).
 
 ## Configuración
 
