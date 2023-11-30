@@ -16,6 +16,11 @@
     width: 100%; /* Asegura que el título ocupe todo el ancho */
 }
 
+#mi-dropdown {
+    font-size: 16px;  /* Tamaño de fuente */
+    width: 700px;     /* Ancho de la lista desplegable */
+}
+
 .graph {
     width: 80%; 
     height: 90vh; /* Altura como porcentaje de la altura de la ventana */
